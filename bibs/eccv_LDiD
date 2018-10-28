@@ -1,0 +1,6 @@
+@InProceedings{ECCV18_LDiD,
+author = {Jianbo Jiao, Ying Cao, Yibing Song, Rynson Lau},
+title = {Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss},
+booktitle = {European Conference on Computer Vision (ECCV)},
+year = {2018}
+}

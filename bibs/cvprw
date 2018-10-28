@@ -1,0 +1,7 @@
+@InProceedings{Jianbo_2017_CVPR_Workshops,
+author = {Jianbo Jiao, Wei-chi Tu, Shengfeng He, Rynson W. H. Lau},
+title = {FormResNet: Formatted Residual Learning for Image Restoration},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {July},
+year = {2017}
+}

@@ -1,0 +1,6 @@
+@INPROCEEDINGS{salienticcv,
+author={Shengfeng He, Jianbo Jiao, Xiaodan Zhang, Guoqiang Han, Rynson W.H. Lau},
+booktitle={2017 IEEE International Conference on Computer Vision (ICCV)},
+title={Delving into Salient Object Subitizing and Detections},
+year={2017},
+}

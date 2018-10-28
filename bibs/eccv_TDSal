@@ -1,0 +1,7 @@
+@inproceedings{zheng2018taskWebSaliency,
+ author={Quanlong Zheng, Jianbo Jiao, Ying Cao, Rynson Lau},
+ title={Task-driven Webpage Saliency},
+ booktitle = {Proceedings of European Conference on Computer Vision (ECCV)},
+ month = {September},
+ year = {2018} 
+}

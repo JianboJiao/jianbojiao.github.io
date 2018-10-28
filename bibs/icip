@@ -1,0 +1,6 @@
+@INPROCEEDINGS{PoseStereo,
+author={Jiawei Zhang, Jianbo Jiao, Mingliang Chen, Liangqiong Qu, Xiaobin Xu, Qingxiong Yang},
+booktitle={2017 IEEE International Conference on Image Processing (ICIP)},
+title={A Hand Pose Tracking Benchmark From Stereo Matching}, 
+year={2017},
+}

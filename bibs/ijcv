@@ -1,0 +1,10 @@
+@article{jiao2017joint,
+  title={Joint Image Denoising and Disparity Estimation via Stereo Structure PCA and Noise-Tolerant Cost},
+  author={Jiao, Jianbo and Yang, Qingxiong and He, Shengfeng and Gu, Shuhang and Zhang, Lei and Lau, Rynson WH},
+  journal={International Journal of Computer Vision},
+  volume={124},
+  number={2},
+  pages={204--222},
+  year={2017},
+  publisher={Springer US}
+}
