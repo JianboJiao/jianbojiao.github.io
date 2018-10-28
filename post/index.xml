@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on JianboJiao</title>
-    <link>jianbojiao.github.io/post/</link>
+    <link>http://jianbojiao.github.io/post/</link>
     <description>Recent content in Posts on JianboJiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="jianbojiao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jianbojiao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>jianbojiao.github.io/post/_about/</link>
+      <link>http://jianbojiao.github.io/post/_about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>jianbojiao.github.io/post/_about/</guid>
+      <guid>http://jianbojiao.github.io/post/_about/</guid>
       <description>I am currently a visiting scholar in the IFP (Image Formation and Processing) group at Beckman Institute, University of Illinois Urbana-Champaign (UIUC), advised by Prof. Thomas S. Huang. I am also a Ph.D. student in Computer Science at City University of Hong Kong, advised by Prof. Qingxiong Yang and Prof. Rynson W. H. Lau. My research interests include computer vision, computer graphics, and machine learning. I am particularly interested in 3D vision and low-level vision.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>jianbojiao.github.io/post/_publications/</link>
+      <link>http://jianbojiao.github.io/post/_publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>jianbojiao.github.io/post/_publications/</guid>
+      <guid>http://jianbojiao.github.io/post/_publications/</guid>
       <description>Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss
 Jianbo Jiao, Ying Cao, Yibing Song, Rynson W.H. Lau
 European Conference on Computer Vision (ECCV), 2018
@@ -37,19 +37,19 @@ Shengfeng He, Jianbo Jiao, Xiaodan Zhang, Guoqiang Han, Rynson W.</description>
     
     <item>
       <title>Teaching Assistant</title>
-      <link>jianbojiao.github.io/post/_teaching/</link>
+      <link>http://jianbojiao.github.io/post/_teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>jianbojiao.github.io/post/_teaching/</guid>
+      <guid>http://jianbojiao.github.io/post/_teaching/</guid>
       <description> 2015 - present (CS@CityU)  Computer Graphics (CS4182/CS5182) Multimedia Technologies and Applications (CS4185/CS5185) Computer Vision for Interactivity (CS4187) Computer Programming (CS2311) 2012 - 2015 (ECE@PKU)  Digital Media Software and System Development (04703920) Fundamentals of Digital Media Technology (04713901)  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>jianbojiao.github.io/post/_contact/</link>
+      <link>http://jianbojiao.github.io/post/_contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>jianbojiao.github.io/post/_contact/</guid>
+      <guid>http://jianbojiao.github.io/post/_contact/</guid>
       <description>jiaojianbo.i@gmail.com</description>
     </item>
     
