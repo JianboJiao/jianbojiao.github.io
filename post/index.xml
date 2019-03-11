@@ -25,14 +25,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jianbojiao.github.io/post/_publications/</guid>
-      <description>Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss
-Jianbo Jiao, Ying Cao, Yibing Song, Rynson W.H. Lau
-European Conference on Computer Vision (ECCV), 2018
-[PDF] [BibTeX] Task-Driven Webpage Saliency
-Quanlong Zheng, Jianbo Jiao, Ying Cao, Rynson W.H. Lau
-European Conference on Computer Vision (ECCV), 2018
-[PDF] [BibTeX] [Project] Delving into Salient Object Subitizing and Detection
-Shengfeng He, Jianbo Jiao, Xiaodan Zhang, Guoqiang Han, Rynson W.</description>
+      <description>Geometry-Aware Distillation for Indoor Semantic Segmentation
+Jianbo Jiao, Yunchao Wei, Zequn Jie, Honghui Shi, Rynson W.H. Lau, Thomas S. Huang
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
+[PDF] Self-supervised Spatio-temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics
+Jiangliu Wang, Jianbo Jiao, Linchao Bao, Shengfeng He, Yunhui Liu, Wei Liu
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
+[PDF] Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss</description>
     </item>
     
     <item>
