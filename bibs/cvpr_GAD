@@ -1,0 +1,6 @@
+@InProceedings{CVPR19_GAD,
+author = {Jianbo Jiao, Yunchao Wei, Zequn Jie, Honghui Shi, Rynson Lau, Thomas S. Huang},
+title = {Geometry-Aware Distillation for Indoor Semantic Segmentation},
+booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+year = {2019}
+}

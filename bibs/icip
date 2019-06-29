@@ -4,3 +4,9 @@ booktitle={2017 IEEE International Conference on Image Processing (ICIP)},
 title={A Hand Pose Tracking Benchmark From Stereo Matching}, 
 year={2017},
 }
+@article{zhang20163d,
+  title={3d hand pose tracking and estimation using stereo matching},
+  author={Zhang, Jiawei and Jiao, Jianbo and Chen, Mingliang and Qu, Liangqiong and Xu, Xiaobin and Yang, Qingxiong},
+  journal={arXiv preprint arXiv:1610.07214},
+  year={2016}
+}

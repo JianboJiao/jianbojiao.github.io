@@ -1,0 +1,6 @@
+@InProceedings{CVPR19_VidMAS,
+author = {Jiangliu Wang, Jianbo Jiao, Linchao Bao, Shengfeng He, Yunhui Liu, Wei Liu},
+title = {Self-supervised Spatio-temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics},
+booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+year = {2019}
+}
