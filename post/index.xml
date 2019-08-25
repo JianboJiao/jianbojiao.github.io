@@ -25,13 +25,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jianbojiao.github.io/post/_publications/</guid>
-      <description>Geometry-Aware Distillation for Indoor Semantic Segmentation
+      <description>Anatomy-Aware Self-supervised Fetal MRI Synthesis from Unpaired Ultrasound Images
+Jianbo Jiao, Ana Namburete, Aris Papageorghiou, Alison Noble
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) Workshop on Machine Learning in Medical Imaging (MLMI), Oral, 2019
+[BibTeX] 
+Geometry-Aware Distillation for Indoor Semantic Segmentation
 Jianbo Jiao, Yunchao Wei, Zequn Jie, Honghui Shi, Rynson W.H. Lau, Thomas S. Huang
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
-[PDF] [BibTeX] Self-supervised Spatio-temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics
-Jiangliu Wang, Jianbo Jiao, Linchao Bao, Shengfeng He, Yunhui Liu, Wei Liu
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
-[PDF] -- [PDF] [BibTeX] [Code] Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss</description>
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019</description>
     </item>
     
     <item>
