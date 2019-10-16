@@ -27,8 +27,8 @@
       <guid>https://jianbojiao.github.io/post/_publications/</guid>
       <description>Anatomy-Aware Self-supervised Fetal MRI Synthesis from Unpaired Ultrasound Images
 Jianbo Jiao, Ana Namburete, Aris Papageorghiou, Alison Noble
-International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) Workshop on Machine Learning in Medical Imaging (MLMI), Oral, 2019
-[BibTeX] Geometry-Aware Distillation for Indoor Semantic Segmentation
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) Workshop on Machine Learning in Medical Imaging (MLMI), Oral Presentation, 2019
+[PDF] [BibTeX] Geometry-Aware Distillation for Indoor Semantic Segmentation
 Jianbo Jiao, Yunchao Wei, Zequn Jie, Honghui Shi, Rynson W.H. Lau, Thomas S. Huang
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019</description>
     </item>
@@ -40,6 +40,15 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019</descrip
       
       <guid>https://jianbojiao.github.io/post/_teaching/</guid>
       <description> 2015 - 2018 (CS@CityU)  Computer Graphics (CS4182/CS5182) Multimedia Technologies and Applications (CS4185/CS5185) Computer Vision for Interactivity (CS4187) Computer Programming (CS2311) 2012 - 2015 (ECE@PKU)  Digital Media Software and System Development (04703920) Fundamentals of Digital Media Technology (04713901)  </description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://jianbojiao.github.io/post/_services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jianbojiao.github.io/post/_services/</guid>
+      <description> Conference Reviewer:  CVPR 2020, AAAI 2020, ICCV 2019 (Outstanding Reviewer), CVPR 2019, MICCAI 2019, Pacific Graphics 2018 Journal Reviewer:  IEEE T-PAMI, T-IP, T-NNLS, T-CSVT, T-Cybernetics, T-MM, Multimedia, Signal Processing Letters; Neurocomputing, Journal of Visual Communication and Image Representation (Outstanding Reviewer), Computer Graphics Forum </description>
     </item>
     
   </channel>
