@@ -28,10 +28,11 @@
       <description>Self-supervised Representation Learning for Ultrasound Video
 Jianbo Jiao, Richard Droste, Lior Drukker, Aris Papageorghiou, Alison Noble
 IEEE International Symposium on Biomedical Imaging (ISBI), 2020
-[PDF] [BibTeX] When AWGN-based Denoiser Meets Real Noises
-Yuqian Zhou, Jianbo Jiao, Haibin Huang, Yang Wang, Jue Wang, Honghui Shi, Thomas S. Huang
-AAAI Conference on Artificial Intelligence (AAAI), Spotlight Presentation, 2020
-[PDF] [BibTeX] [Code] Connecting Image Denoising and High-Level Vision Tasks via Deep Learning</description>
+[PDF] [BibTeX] Inferring Attention Shift Ranks of Objects for Image Saliency
+Avishek Siris, Jianbo Jiao, Gary K.L. Tam, Xianghua Xie, Rynson W.H. Lau
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020
+[PDF] [BibTeX] [Project] When AWGN-based Denoiser Meets Real Noises
+Yuqian Zhou, Jianbo Jiao, Haibin Huang, Yang Wang, Jue Wang, Honghui Shi, Thomas S.</description>
     </item>
     
     <item>
@@ -49,7 +50,7 @@ AAAI Conference on Artificial Intelligence (AAAI), Spotlight Presentation, 2020
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jianbojiao.github.io/post/_services/</guid>
-      <description> Conference Reviewer:  CVPR 2020, ECCV 2020, AAAI 2020, IJCAI2020, ICCV 2019 (Outstanding Reviewer), CVPR 2019, MICCAI 2019, Pacific Graphics 2018 Journal Reviewer:  IEEE T-PAMI, T-IP, T-NNLS, T-CSVT, T-Cybernetics, T-MM, Multimedia, Signal Processing Letters; Neurocomputing, Journal of Visual Communication and Image Representation (Outstanding Reviewer), Computer Vision and Image Understanding, Computer Graphics Forum </description>
+      <description> Conference Reviewer:  CVPR 2020, ECCV 2020, MICCAI 2020, AAAI 2020, IJCAI2020, ICCV 2019 (Outstanding Reviewer), CVPR 2019, MICCAI 2019, Pacific Graphics 2018 Journal Reviewer:  IEEE T-PAMI, T-IP, T-NNLS, T-CSVT, T-Cybernetics, T-MM, Multimedia, Signal Processing Letters; Neurocomputing, Journal of Visual Communication and Image Representation (Outstanding Reviewer), Computer Vision and Image Understanding, Computer Graphics Forum </description>
     </item>
     
   </channel>
