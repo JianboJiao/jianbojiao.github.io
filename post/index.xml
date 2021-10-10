@@ -29,9 +29,9 @@
 Jiangliu Wang*, Jianbo Jiao*, Linchao Bao, Shengfeng He, Wei Liu, Yunhui Liu (*Equal contribution)
 IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021
 This paper subsumes our preliminary work presented at CVPR 2019, with ~30% performance improvement!
-[PDF] [BibTeX] [Code] Affinity Attention Graph Neural Network for Weakly Supervised Semantic Segmentation
-Bingfeng Zhang, Jimin Xiao, Jianbo Jiao, Yunchao Wei,Yao Zhao
-IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021</description>
+[PDF] [BibTeX] [Code] Scene Context-Aware Salient Object Detection
+Avishek Siris, Jianbo Jiao, Gary K.L. Tam, Xianghua Xie, Rynson W.H. Lau
+IEEE/CVF International Conference on Computer Vision (ICCV), 2021</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021</d
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jianbojiao.github.io/post/_services/</guid>
-      <description> Organizing Committee:  25th UK Conference on Medical Image Understanding and Analysis (MIUA 2021)  Executive Area Chair  Vision And Learning SEminar (VALSE)  Conference Reviewer:  ICLR 2022, NeurIPS 2021, CVPR 2021 (Outstanding Reviewer), IJCAI 2021 (Senior Program Committee member), AAAI 2021, WACV 2021, CVPR 2020, ECCV 2020 (Outstanding Reviewer), MICCAI 2020 (Outstanding Reviewer), AAAI 2020, IJCAI 2020, ACCV 2020, ICCV 2019 (Outstanding Reviewer), CVPR 2019, MICCAI 2019, Pacific Graphics 2018 Journal Reviewer:  IEEE T-PAMI, T-IP, T-MI, T-NNLS, T-CSVT, T-Cybernetics, T-MM, Multimedia, Signal Processing Letters; Springer IJCV, Neurocomputing, Journal of Visual Communication and Image Representation (Outstanding Reviewer), Computer Vision and Image Understanding, Computer Graphics Forum </description>
+      <description> Co-Chair / Organizing Committee:  25th UK Conference on Medical Image Understanding and Analysis (MIUA 2021)  Executive Area Chair  Vision And Learning SEminar (VALSE)  Conference Reviewer:  ICLR 2022, NeurIPS 2021, CVPR 2021 (Outstanding Reviewer), IJCAI 2021 (Senior Program Committee member), AAAI 2021, WACV 2021, CVPR 2020, ECCV 2020 (Outstanding Reviewer), MICCAI 2020 (Outstanding Reviewer), AAAI 2020, IJCAI 2020, ACCV 2020, ICCV 2019 (Outstanding Reviewer), CVPR 2019, MICCAI 2019, Pacific Graphics 2018 Journal Reviewer:  IEEE T-PAMI, T-IP, T-MI, T-NNLS, T-CSVT, T-Cybernetics, T-MM, Multimedia, Signal Processing Letters; Springer IJCV, Neurocomputing, Journal of Visual Communication and Image Representation (Outstanding Reviewer), Computer Vision and Image Understanding, Computer Graphics Forum </description>
     </item>
     
   </channel>
