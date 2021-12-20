@@ -28,11 +28,11 @@
       <description>Quantised Transforming Auto-Encoders: Achieving Equivariance to Arbitrary Transformations in Deep Networks
 Jianbo Jiao, João F. Henriques
 British Machine Vision Conference (BMVC), 2021
-[PDF] [BibTeX] [Presentation] [Project] 
-Self-Supervised Video Representation Learning by Uncovering Spatio-temporal Statistics
-Jiangliu Wang*, Jianbo Jiao*, Linchao Bao, Shengfeng He, Wei Liu, Yunhui Liu (*Equal contribution)
-IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021
-This paper subsumes our preliminary work presented at CVPR 2019, with ~30% performance improvement!</description>
+[PDF] [BibTeX] [Presentation] [Project] Explainability of Self-Supervised Representation Learning for Medical Ultrasound Video
+Kangning Zhang, Jianbo Jiao, Alison Noble
+Conference on Neural Information Processing Systems Workshop (MedNeurIPS), 2021
+[PDF] [BibTeX] [Poster] Self-Supervised Video Representation Learning by Uncovering Spatio-temporal Statistics
+Jiangliu Wang*, Jianbo Jiao*, Linchao Bao, Shengfeng He, Wei Liu, Yunhui Liu (*Equal contribution)</description>
     </item>
     
     <item>
