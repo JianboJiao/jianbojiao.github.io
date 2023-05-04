@@ -25,12 +25,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jianbojiao.github.io/post/_publications/</guid>
-      <description>Mining Unseen Classes via Regional Objectness: A Simple Baseline for Incremental Segmentation
-Zekang Zhang, Guangyu Gao, Zhiyuan Fang, Jianbo Jiao, Yunchao Wei 
-Conference on Neural Information Processing Systems (NeurIPS), 2022
-[PDF] [BibTeX] [Code] Anatomy-Aware Contrastive Representation Learning for Fetal Ultrasound
-Zeyu Fu*, Jianbo Jiao*, Robail Yasrab*, Lior Drukker, Aris T. Papageorghiou, Alison Noble (*Equal contribution)
-European Conference on Computer Vision (ECCV) Medical Computer Vision Workshop, Oral Presentation (Best Paper Award), 2022</description>
+      <description>Revisiting Implicit Neural Representations in Low-Level Vision
+Wentian Xu, Jianbo Jiao 
+International Conference on Learning Representations (ICLR) Neural Fields Workshop, 2023
+[PDF] [arXiv] [BibTeX] [Project] A Kernel Density Estimation based Quality Metric for Quality Assessment of Obstetric Ultrasound Video
+Jong Kwon, Jianbo Jiao, Alice Self, J. Alison Noble, Aris Papageorghiou 
+International Conference on Learning Representations (ICLR) Trustworthy Machine Learning for Healthcare Workshop, 2023
+[PDF] [BibTeX] [Code] Mining Unseen Classes via Regional Objectness: A Simple Baseline for Incremental Segmentation</description>
     </item>
     
     <item>
