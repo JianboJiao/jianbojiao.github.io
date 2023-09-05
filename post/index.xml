@@ -25,13 +25,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jianbojiao.github.io/post/_publications/</guid>
-      <description>Revisiting Implicit Neural Representations in Low-Level Vision
-Wentian Xu, Jianbo Jiao 
-International Conference on Learning Representations (ICLR) Neural Fields Workshop, 2023
-[PDF] [arXiv] [BibTeX] [Project] A Kernel Density Estimation based Quality Metric for Quality Assessment of Obstetric Ultrasound Video
-Jong Kwon, Jianbo Jiao, Alice Self, J. Alison Noble, Aris Papageorghiou 
-International Conference on Learning Representations (ICLR) Trustworthy Machine Learning for Healthcare Workshop, 2023
-[PDF] [BibTeX] [Code] Mining Unseen Classes via Regional Objectness: A Simple Baseline for Incremental Segmentation</description>
+      <description>Multi-view Self-supervised Disentanglement for General Image Denoising
+Hao Chen*, Chenyuan Qu*, Yu Zhang, Chen Chen, Jianbo Jiao
+IEEE/CVF International Conference on Computer Vision (ICCV), 2023
+[PDF] [BibTeX] [Code] [Project Page] CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation
+Zekang Zhang, Guangyu Gao, Jianbo Jiao, Chi Harold Liu, Yunchao Wei
+IEEE/CVF International Conference on Computer Vision (ICCV), 2023
+[PDF] [BibTeX] [Code] CL-MVSNet: Unsupervised Multi-view Stereo with Dual-level Contrastive Learning</description>
     </item>
     
     <item>
