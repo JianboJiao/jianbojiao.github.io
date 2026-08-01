@@ -1,0 +1,619 @@
+---
+title: Publications
+weight: 3
+---
+
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/aim.png">
+**Articulation in Motion: Prior-free Part Mobility Analysis for Articulated Objects By Dynamic-Static Disentanglement**<br>
+<font size=2> Hao Ai, Wenjie Chang, **Jianbo Jiao**, Ales Leonardis, Eyal Ofek</font><br>
+<font size=2>*The Fourteenth International Conference on Learning Representations* (**ICLR**), 2026</font><br>
+[[PDF]](pdfs/aim.pdf) [[BibTeX]](bibs/aim.bib) [[arXiv]](./) [[Project Page]](https://haoai-1997.github.io/AiM/) [[Code]](https://github.com/haoai-1997/AiM)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/3dsqs.gif">
+**3DSQS: 3D Superquadric Splatting**<br>
+<font size=2> Daniel MacSwayne, Ales Leonardis, **Jianbo Jiao**</font><br>
+<font size=2>*IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**), 2026</font><br>
+[[PDF]](pdfs/3DSQS.pdf) [[BibTeX]](bibs/3dsqs.bib) [[arXiv]](https://arxiv.org/abs/) [[Project Page]](https://daniel-macswayne.github.io/3DSQS/) [[Code]](./)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/ragovs.png">
+**Structure-Aware Feature Rectification with Region Adjacency Graphs for Training-Free Open-Vocabulary Semantic Segmentation**<br>
+<font size=2> Qiming Huang, Hao Ai, **Jianbo Jiao**</font><br>
+<font size=2>*IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**), 2026</font><br>
+[[PDF]](pdfs/RAG-OVS.pdf) [[BibTeX]](bibs/ragovs.bib) [[arXiv]](https://www.arxiv.org/abs/2512.07360) [[Project Page]](https://qiming-huang.github.io/RAG-OVS/) [[Code]](./)
+<br>
+
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/tmlr25.png">
+**<i>What Time Tells Us?</i><br> An Explorative Study of Time-Awareness Learned from Static Images**<br>
+<font size=2> Dongheng Lin\*, Han Hu\*, **Jianbo Jiao**</font><br>
+<font size=2>*Transactions on Machine Learning Research* (**TMLR**), 2025</font><br>
+[[PDF]](https://openreview.net/pdf?id=f1MYOG4iDG) [[BibTeX]](bibs/tmlr25.bib) [[arXiv]](https://arxiv.org/abs/2503.17899) [[Short Video Intro]](https://youtu.be/hvuchW2tn_A) [[Dataset]](https://www.kaggle.com/datasets/011af1d77cea3112779e0ea0139debab55141b1dd93d0c2524cfc68ec5be774d/) [[Project Page]](https://rathgrith.github.io/timetells_release/)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/neurips25.jpg">
+**A Unified Reasoning Framework for Holistic Zero-Shot Video Anomaly Analysis**<br>
+<font size=2> Dongheng Lin, Mengxue Qu, Kunyang Han, **Jianbo Jiao**, Xiaojie Jin, Yunchao Wei</font><br>
+<font size=2>*Annual Conference on Neural Information Processing Systems* (**NeurIPS**), 2025</font><br>
+[[PDF]](https://openreview.net/pdf?id=Qla5PqFL0s) [[BibTeX]](bibs/neurips25.bib) [[arXiv]](https://arxiv.org/abs/2511.00962) [[Short Video Intro]](https://rathgrith.github.io/Unified_Frame_VAA/static/videos/teaser.mp4) [[Project Page]](https://rathgrith.github.io/Unified_Frame_VAA/)
+<br>
+
+
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/bmvc25_visualsplit.png">
+**Exploring Image Representation with Decoupled Classical Visual Descriptors**<br>
+<font size=2> Chenyuan Qu, Hao Chen, **Jianbo Jiao**</font><br>
+<font size=2>*British Machine Vision Conference* (**BMVC**), 2025</font><br>
+[[PDF]](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_873/paper.pdf) [[BibTeX]](bibs/bmvc25_visualsplit.bib) [[arXiv]](https://arxiv.org/abs/2510.14536) [[Short Video Intro]](https://youtu.be/Kbx-Mc7Tyec) [[Project Page]](https://chenyuanqu.com/VisualSplit/)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/bmvc25_harry.png">
+**<i>What Can We Learn from Harry Potter?</i><br> 
+An Exploratory Study of Visual Representation Learning from Atypical Videos**<br>
+<font size=2> Qiyue Sun, Qiming Huang, Yang Yang, Hongjun Wang, **Jianbo Jiao**</font><br>
+<font size=2>*British Machine Vision Conference* (**BMVC**), 2025</font><br>
+[[PDF]](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_357/paper.pdf) [[BibTeX]](bibs/bmvc25_harry.bib) [[arXiv]](https://arxiv.org/abs/2508.21770) [[Short Video Intro]](https://youtu.be/-AMkMvN1mMM) [[Dataset]](https://huggingface.co/datasets/mixgroup-atypical/atypical) [[Project Page]](https://julysun98.github.io/atypical_dataset/)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/bmvc25_abs.png">
+**An Explorative Study on Abstract Images and Visual Representations Learned from Them**<br>
+<font size=2> Haotian Li, **Jianbo Jiao**</font><br>
+<font size=2>*British Machine Vision Conference* (**BMVC**), 2025</font><br>
+[[PDF]](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_495/paper.pdf) [[BibTeX]](bibs/bmvc25_abs.bib) [[arXiv]](https://arxiv.org/abs/2509.14149) [[Short Video Intro]](https://youtu.be/5qRc2CJmUfw) [[Project Page]](https://fronik-lihaotian.github.io/HAID_page/) [[Dataset]](https://huggingface.co/datasets/Froink/HAID_zipped)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/bmvc25_avs.png">
+**Audio-Visual Separation with Hierarchical Fusion and Representation Alignment**<br>
+<font size=2> Han Hu\*, Dongheng Lin\*, Qiming Huang, Yuqi Hou, Hyung Jin Chang, **Jianbo Jiao**</font><br>
+<font size=2>*British Machine Vision Conference* (**BMVC**), 2025</font><br>
+[[PDF]](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_493/paper.pdf) [[BibTeX]](bibs/bmvc25_avs.bib) [[arXiv]](https://arxiv.org/abs/2510.07326) [[Short Video Intro]](https://youtu.be/2kBis9EG5P4) [[Project Page]](https://happy-new-bears.github.io/hfra-audiosep/)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/bmvc25_hate.png">
+**Multimodal Hate Detection Using Dual-Stream Graph Neural Networks**<br>
+<font size=2> Jiangbei Yue, Shuonan Yang, Tailin Chen, **Jianbo Jiao**, Zeyu Fu</font><br>
+<font size=2>*British Machine Vision Conference* (**BMVC**), 2025</font><br>
+[[PDF]](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_408/paper.pdf) [[BibTeX]](bibs/bmvc25_hate.bib) [[arXiv]](https://arxiv.org/abs/2509.13515) [[Project Page]](https://github.com/Multimodal-Intelligence-Lab-MIL/MultiHateGNN)
+<br>
+
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/iccv25.png">
+**LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling**<br>
+<font size=2> Jiahao Wu, Rui Peng, **Jianbo Jiao**, Jiayu Yang, Luyang Tang, Kaiqiang Xiong, Jie Liang, Jinbo Yan, Runling Liu, Ronggang Wang</font><br>
+<font size=2>*IEEE/CVF International Conference on Computer Vision* (**ICCV**), 2025</font><br>
+[[PDF]](https://arxiv.org/pdf/2507.02363) [[BibTeX]](bibs/iccv25.bib) [[arXiv]](https://arxiv.org/abs/2507.02363) [[Project Page]](https://wujh2001.github.io/LocalDyGS/) [[Dataset]](https://huggingface.co/datasets/BestWJH/VRU_Basketball/tree/main)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/acmmm25.jpg">
+**DeHate: A Holistic Hateful Video Dataset for Explicit and Implicit Hate Detection**<br>
+<font size=2> Yuchen Zhang, Tailin Chen, Jiangbei Yue, Yueming Sun, Rahul Singh, **Jianbo Jiao**, Zeyu Fu</font><br>
+<font size=2>*ACM Multimedia 2025 Dataset Track* (**ACMMM Datasets**), 2025</font><br>
+[[PDF]](https://openreview.net/pdf?id=D4GxwGy41E) [[BibTeX]](bibs/acmmm25.bib) [[Dataset]](https://github.com/yuchen-zhang-essex/DeHate)
+<br>
+
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/iclr25.gif">
+**Revisit the Open Nature of Open Vocabulary Semantic Segmentation**<br>
+<font size=2> Qiming Huang, Han Hu, **Jianbo Jiao**</font><br>
+<font size=2>*International Conference on Learning Representations* (**ICLR**), 2025</font><br>
+[[PDF]](https://openreview.net/pdf?id=2vHIHrJAcI) [[BibTeX]](bibs/iclr25.bib) [[arXiv]](./) [[Short Video Intro]](https://www.youtube.com/watch?v=wP9RWue5D1I) [[Project Page and code]](https://qiming-huang.github.io/RevisitOVS/)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/cvpr25.png">
+**CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation**<br>
+<font size=2> Kai Fang, Anqi Zhang, Guangyu Gao, **Jianbo Jiao**, Chi Harold Liu, Yunchao Wei</font><br>
+<font size=2>*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2025</font><br>
+[[PDF]](https://guangyu-ryan.github.io/CVPR2025_CISS.pdf) [[BibTeX]](bibs/cvpr25.bib) [[arXiv]](https://arxiv.org/abs/2504.04156) [[Project Page and code]](https://guangyu-ryan.github.io/CoMBO)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/physchem25.png">
+**Transformer-Based Models for Predicting Molecular Structures from Infrared Spectra Using Patch-Based Self-Attention**<br>
+<font size=2> Wenjin Wu, Aleš Leonardis, **Jianbo Jiao**, Jun Jiang, Linjiang Chen</font><br>
+<font size=2>*The Journal of Physical Chemistry A*, 2025</font><br>
+[[Paper]](https://pubs.acs.org/doi/10.1021/acs.jpca.4c05665) [[BibTeX]](bibs/physchem25.bib) [[arXiv]](./) [[Project Page and code]](https://wenjin886.github.io/PatchBasedSelfAttention/)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/prformer.png">
+**PRFormer: Matching Proposal and Reference Masks by Semantic and Spatial Similarity for Few-Shot Semantic Segmentation**<br>
+<font size=2> Guangyu Gao, Anqi Zhang, **Jianbo Jiao**, Chi Harold Liu, Yunchao Wei</font><br>
+<font size=2>*IEEE Transactions on Circuits and Systems for Video Technology* (**T-CSVT**), 2025</font><br>
+[[PDF]](pdfs/prformer.pdf) [[BibTeX]](bibs/prformer.bib) [[Code]](https://github.com/ANDYZAQ/PRFormer)
+<br>
+
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/cvpr24x360.png">
+**360+x: A Panoptic Multi-modal Scene Understanding Dataset**<br>
+<font size=2> Hao Chen, Yuqi Hou, Chenyuan Qu, Irene Testini, Xiaohan Hong, **Jianbo Jiao**</font><br>
+<font size=2>*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR**), <font color=#FF8080><strong>Oral Presentation (3.3% of accepted papers)</strong></font>, 2024</font><br>
+[[PDF]](pdfs/cvpr24x360.pdf) [[BibTeX]](bibs/cvpr24x360.bib) [[arXiv]](https://arxiv.org/abs/2404.00989) [[Project Page]](https://x360dataset.github.io/)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/scirep.png">
+**Show from Tell: Audio-Visual Modelling in a Clinical Setting**<br>
+<font size=2>**Jianbo Jiao**\*, Mohammad Alsharid\*, Lior Drukker, Aris T. Papageorghiou, [Andrew Zisserman](https://www.robots.ox.ac.uk/~az/), [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble)</font><br>
+<font size=2>*Scientific Reports*, 2024</font><br>
+[[PDF]](https://rdcu.be/dNcmb) [[BibTeX]](bibs/scirep.bib) [[Online Article]](https://www.nature.com/articles/s41598-024-66160-4?_gl=1*12hjhqt*_up*MQ..&gclid=Cj0KCQjwv7O0BhDwARIsAC0sjWPiDFyuf4Hk8_rh8qOZarMZVbPYc-mDy31djVkhEAP_uI6RjKWLt20aAnhCEALw_wcB)
+<br>
+
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/micad24.png">
+**Out-of-Clinical-Distribution Detection with a Softmax-Conditioned Variational Autoencoder Regulariser: Application to Fetal Ultrasound**<br>
+<font size=2> Kangning Zhang, **Jianbo Jiao**, [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble)</font><br>
+<font size=2>*International Conference on Medical Imaging and Computer-Aided Diagnosis* (**MICAD**), <font color=#FF8080><strong>Oral Presentation</strong></font>, <i class="fas fa-trophy"></i><font color="e63946"><strong>Best Paper Award</strong></font>, 2024</font><br>
+[[PDF]](pdfs/micad24.pdf) [[BibTeX]](bibs/micad24.bib) [[Code]](https://github.com/kangning-zhang/OOD)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/accv24.png">
+**Few Exemplar-Based General Medical Image Segmentation via Domain-Aware Selective Adaptation**<br>
+<font size=2> Chen Xu\*, Qiming Huang\*, Yuqi Hou, Jiangxing Wu, Fan Zhang, Hyung Jin Chang, **Jianbo Jiao**</font><br>
+<font size=2>*Asian Conference on Computer Vision* (**ACCV**), 2024</font><br>
+[[PDF]](https://xuchenjune.github.io/FEMed/FEMedSegment.pdf) [[BibTeX]](bibs/accv24.bib) [[arXiv]](https://arxiv.org/abs/2410.09254) [[Project and code]](https://xuchenjune.github.io/FEMed/)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/neurips24_bridge.png">
+**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**<br>
+<font size=2> Anqi Zhang, Guangyu Gao, **Jianbo Jiao**, Chi Harold Liu, Yunchao Wei</font><br>
+<font size=2>*Annual Conference on Neural Information Processing Systems* (**NeurIPS**), <font color=#FF8080><strong>Spotlight Presentation</strong></font>, 2024</font><br>
+[[PDF]](https://arxiv.org/pdf/2410.06964) [[BibTeX]](bibs/neurips24_bridge.bib) [[arXiv]](https://arxiv.org/abs/2410.06964) [[Project Page]](https://andyzaq.github.io/GF-SAM/)
+<br>
+
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/neurips24_scgs.png">
+**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**<br>
+<font size=2> Rui Peng, Wangze Xu, Luyang Tang, Liwei Liao, **Jianbo Jiao**, Ronggang Wang</font><br>
+<font size=2>*Annual Conference on Neural Information Processing Systems* (**NeurIPS**), 2024</font><br>
+[[PDF]](https://arxiv.org/pdf/2411.03637) [[BibTeX]](bibs/neurips24_scgs.bib) [[arXiv]](https://arxiv.org/abs/2411.03637) [[Code]](https://github.com/prstrive/SCGaussian)
+<br>
+
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/eccv24_DiGARR.png">
+**Disentangled Generation and Aggregation for Robust Radiance Fields**<br>
+<font size=2> Shihe Shen\*, Huachen Gao\*, Wangze Xu, Rui Peng, Luyang Tang, Kaiqiang Xiong, **Jianbo Jiao**, Ronggang Wang</font><br>
+<font size=2>*European Conference on Computer Vision* (**ECCV**), 2024</font><br>
+[[PDF]](https://arxiv.org/pdf/2409.15715) [[BibTeX]](bibs/eccv24_DiGARR.bib) [[arXiv]](https://arxiv.org/abs/2409.15715) [[Code]](https://github.com/GaoHchen/DiGARR) [[Project Page]](https://gaohchen.github.io/DiGARR/)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/eccv24_mvpgs.png">
+**MVPGS: Excavating Multi-view Prior for Gaussian Splatting from Sparse Input Views**<br>
+<font size=2> Wangze Xu, Huachen Gao, Shihe Shen, Rui Peng, **Jianbo Jiao**, Ronggang Wang</font><br>
+<font size=2>*European Conference on Computer Vision* (**ECCV**), 2024</font><br>
+[[PDF]](https://arxiv.org/pdf/2409.14316) [[BibTeX]](bibs/eccv24_mvpgs.bib) [[arXiv]](https://arxiv.org/abs/2409.14316) [[Code]](https://github.com/zezeaaa/MVPGS) [[Project Page]](https://zezeaaa.github.io/projects/MVPGS/)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/eccv24_surf.png">
+**Surface-Centric Modeling for High-Fidelity Generalizable Neural Surface Reconstruction**<br>
+<font size=2> Rui Peng, Shihe Shen, Kaiqiang Xiong, Huachen Gao, **Jianbo Jiao**, Xiaodong Gu, Ronggang Wang</font><br>
+<font size=2>*European Conference on Computer Vision* (**ECCV**), 2024</font><br>
+[[PDF]](https://arxiv.org/pdf/2409.03634) [[BibTeX]](bibs/eccv24_surf.bib) [[arXiv]](https://arxiv.org/abs/2409.03634) [[Code]](https://github.com/prstrive/SuRF)
+<br>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/asmus24.png">
+**Fetal Ultrasound Video Representation Learning using Contrastive Rubik’s Cube Recovery**<br>
+<font size=2>Kangning Zhang, **Jianbo Jiao**, [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble)</font><br>
+<font size=2>*International Conference on Medical Image Computing and Computer Assisted Intervention Workshop* ([**MICCAI ASMUS**](https://miccai-ultrasound.github.io/#/asmus24)), <font color=#FF8080><strong>Oral Presentation</strong></font>, [<i class="fas fa-trophy"></i><a href="img/MICCAI24_ASMUS_BestPaperAward.png"><font color="e63946"><strong>Best Paper Award</strong></font></a> and <i class="fas fa-trophy"></i><a href="img/MICCAI24_ASMUS_BestPresentationrunner-up.png"><font color="e63946"><strong>Best Presentation (Runner-Up) Award</strong></font></a>], 2024</font><br>
+[[PDF]](pdfs/asmus24.pdf) [[BibTeX]](bibs/asmus24.bib) [[Code]](https://github.com/kangning-zhang/CRCR)
+<br>
+
+
+
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/cvpr24dymvhumans.png">
+**DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**<br>
+<font size=2> Xiaoyun Zheng, Liwei Liao, Xufeng Li, **Jianbo Jiao**, Rongjie Wang, Feng Gao, Shiqi Wang, Ronggang Wang</font><br>
+<font size=2>*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024</font><br>
+[[PDF]](pdfs/cvpr24dymvhumans.pdf) [[BibTeX]](bibs/cvpr24dymvhumans.bib) [[arXiv]](https://arxiv.org/abs/2403.16080) [[Project Page]](https://pku-dymvhumans.github.io/)
+<br>
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/wacv24dpt.jpg">
+**Disentangled Pre-training for Image Matting**<br>
+<font size=2>Yanda Li, Zilong Huang, Gang Yu, Ling Chen, [Yunchao Wei](https://weiyc.github.io), **Jianbo Jiao**</font><br>
+<font size=2>*IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**), <font color=#FF8080><strong>Oral Presentation (2.5% of accepted papers)</strong></font>, 2024</font><br>
+[[PDF]](pdfs/wacv24dpt.pdf) [[BibTeX]](bibs/wacv24dpt.bib) [[Code]](https://github.com/crystraldo/dpt) [[Project Page]](https://crystraldo.github.io/dpt_mat/)
+<br>
+
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/wacv24med.png">
+**FreMIM: Fourier Transform Meets Masked Image Modeling for Medical Image Segmentation**<br>
+<font size=2>Wenxuan Wang\*, Jing Wang\*, Chen Chen,  **Jianbo Jiao**, Yuanxiu Cai, Shanshan Song, Jiangyun Li</font><br>
+<font size=2>*IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**), 2024</font><br>
+[[PDF]](pdfs/wacv24med.pdf) [[BibTeX]](bibs/wacv24med.bib) [[Code]](https://github.com/Rubics-Xuan/FreMIM) [[Project Page]](https://rubics-xuan.github.io/FreMIM/)
+<br>
+
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/acmmm24.png">
+**Frame Interpolation with Consecutive Brownian Bridge Diffusion**<br>
+<font size=2>Zhonglin Lyu, Ming Li, **Jianbo Jiao**, Chen Chen</font><br>
+<font size=2>*ACM Multimedia* (**ACM MM**), 2024</font><br>
+[[PDF]](https://arxiv.org/pdf/2405.05953) [[BibTeX]](bibs/acmmm24.bib) [[Code]](https://github.com/ZonglinL/ConsecutiveBrownianBridge) [[Project Page]](https://zonglinl.github.io/videointerp/)
+<br>
+
+
+<img align="left" style="width:200px;height:120px;margin:5px 5px" src="img/tip24_surfacesos.png">
+**Surface-SOS: Self-Supervised Object Segmentation via Neural Surface Representation**<br>
+<font size=2> Xiaoyun Zheng, Liwei Liao, **Jianbo Jiao**, Feng Gao, Ronggang Wang</font><br>
+<font size=2>*IEEE Transactions on Image Processing*  (**T-IP**), 2024</font><br>
+[[PDF]](pdfs/tip24_surfacesos.pdf) [[BibTeX]](bibs/tip24_surfacesos.bib) [[Code]](https://github.com/zhengxyun/Surface-SOS)
+<br>
+
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/midl24.png">
+**Med-Tuning: A New Parameter-Efficient Tuning Framework for Medical Volumetric Segmentation**<br>
+<font size=2>Jiachen Shen\*, Wenxuan Wang\*, Chen Chen,  **Jianbo Jiao**, Jing Liu, Yan Zhang, Shanshan Song, Jiangyun Li</font><br>
+<font size=2>*Medical Imaging with Deep Learning* (**MIDL**), 2024</font><br>
+[[PDF]](https://arxiv.org/abs/2304.10880) [[BibTeX]](bibs/midl24.bib) [[Code]](https://github.com/jessie-chen99/Med-Tuning-Official) [[Project Page]](https://rubics-xuan.github.io/Med-Tuning/)
+<br>
+
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/ISBI24.png">
+**Dual Representation Learning from Fetal Ultrasound Video and Sonographer Audio**<br>
+<font size=2>Mourad Gridach, Mohammad Alsharid, **Jianbo Jiao**, Lior Drukker, Aris Papageorghiou, [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble)</font><br>
+<font size=2>*IEEE International Symposium on Biomedical Imaging* (**ISBI**), <font color=#FF8080><strong>Oral Presentation</strong></font>, 2024</font><br>
+[[PDF]](pdfs/ISBI24.pdf) [[BibTeX]](bibs/ISBI24.bib)
+<br>
+
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/ijcv23.png">
+**Inferring Attention Shifts for Salient Instance Ranking**<br>
+<font size=2>Avishek Siris, **Jianbo Jiao**, Gary K.L. Tam, Xianghua Xie, Rynson W.H. Lau</font><br>
+<font size=2>*International Journal of Computer Vision* (**IJCV**), 2023</font><br>
+<!-- <font size=2>This paper subsumes our [preliminary work](pdfs/CVPR20.pdf) presented at CVPR 2020.</font><br> -->
+[[Article]](https://link.springer.com/article/10.1007/s11263-023-01906-7) [[BibTeX]](bibs/ijcv23.bib) [[Code]](https://github.com/SirisAvishek/Attention_Shift_Ranks)
+<br>
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/iccv23med.png">
+**Multi-view Self-supervised Disentanglement for General Image Denoising**<br>
+<font size=2>[Hao Chen](https://chqwer2.github.io/)\*, [Chenyuan Qu](https://chenyuanqu.com/)\*, Yu Zhang, Chen Chen, **Jianbo Jiao**</font><br>
+<font size=2>*IEEE/CVF International Conference on Computer Vision* (**ICCV**), 2023</font><br>
+[[PDF]](pdfs/iccv23_med.pdf) [[ArXiv]](https://arxiv.org/abs/2309.05049) [[BibTeX]](bibs/iccv23_med.bib) [[Code]](https://github.com/chqwer2/Multi-view-Self-supervised-Disentanglement-Denoising) [[Project Page]](https://chqwer2.github.io/MeD/)
+<br>
+
+<img align="left" style="width:200px;height:108px;margin:5px 5px" src="img/iccv23coinseg.png">
+**CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation**<br>
+<font size=2>Zekang Zhang, Guangyu Gao, **Jianbo Jiao**, Chi Harold Liu, [Yunchao Wei](https://weiyc.github.io)</font><br>
+<font size=2>*IEEE/CVF International Conference on Computer Vision* (**ICCV**), 2023</font><br>
+[[PDF]](pdfs/iccv23_coinseg.pdf) [[BibTeX]](bibs/iccv23_coinseg.bib) [[Code]](https://github.com/zkzhang98/CoinSeg)
+<br>
+
+<img align="left" style="width:200px;height:115px;margin:5px 5px" src="img/iccv23clmvs.png">
+**CL-MVSNet: Unsupervised Multi-view Stereo with Dual-level Contrastive Learning**<br>
+<font size=2>Kaiqiang Xiong, Rui Peng, Zhe Zhang, Tianxing Feng, **Jianbo Jiao**, Feng Gao, [Ronggang Wang][ronggang]</font><br>
+<font size=2>*IEEE/CVF International Conference on Computer Vision* (**ICCV**), 2023</font><br>
+[[PDF]](pdfs/iccv23_clmvs.pdf) [[BibTeX]](bibs/iccv23_clmvs.bib) [[Code]](https://github.com/KaiqiangXiong/CL-MVSNet) [[Project Page]](https://kaiqiangxiong.github.io/CL-MVSNet/)
+<br>
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/iccv23diffuse3d.png">
+**Diffuse3D: Wide-Angle 3D Photography via Bilateral Diffusion**<br>
+<font size=2>Yutao Jiang, Yang Zhou, Yuan Liang, Wenxi Liu, **Jianbo Jiao**, Yuhui Quan, [Shengfeng He][sf]</font><br>
+<font size=2>*IEEE/CVF International Conference on Computer Vision* (**ICCV**), 2023</font><br>
+[[PDF]](pdfs/iccv23_diffuse3d.pdf) [[BibTeX]](bibs/iccv23_diffuse3d.bib) [[Code]](https://github.com/yutaojiang1/Diffuse3D) [[Video]](https://www.dropbox.com/scl/fi/zhp8q7ertpo49cd1t0hp4/d3d-video.mp4?rlkey=c66kkavd6j7d9ftwye1c2au1a&dl=0)
+<br>
+
+
+<img align="left" style="width:200px;height:108px;margin:5px 5px" src="img/bibm.png">
+**Bridging the Gap: Cross-modal Knowledge Driven Network for Radiology Report Generation**<br>
+<font size=2>Beichen Kang, Yun Xiong, **Jianbo Jiao**, Yao Zhang, Xing Jia, Ji Li</font><br>
+<font size=2>*IEEE International Conference on Bioinformatics and Biomedicine* (**BIBM**), 2023</font><br>
+[[PDF]](pdfs/bibm.pdf) [[BibTeX]](bibs/bibm.bib) [[Code]](https://github.com/Kangbeichen/CKNet)
+<br>
+
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/softinfo.png">
+**Speed Co-Augmentation for Unsupervised Audio-Visual Pre-training**<br>
+<font size=2>[Jiangliu Wang](https://laura-wang.github.io/), **Jianbo Jiao**, [Yibing Song](https://ybsong00.github.io), [Stephen James](https://stepjam.github.io/), Zhan Tong, Chongjian Ge, [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), Yun-Hui Liu </font><br>
+<font size=2>*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) [*Workshop on Sight and Sound*](https://sightsound.org/), 2023</font><br>
+[[PDF]](pdfs/softinfo.pdf) [[BibTeX]](bibs/softinfo.bib) [[Code]](./)
+<br>
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/calince.png">
+**Cali-NCE: Boosting Cross-modal Video Representation Learning with Calibrated Alignment**<br>
+<font size=2>[Nanxuan Zhao](http://nxzhao.com/#), **Jianbo Jiao**, [Weidi Xie](https://weidixie.github.io/index.html), [Dahua Lin](http://dahua.site/) </font><br>
+<font size=2>*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) [*Workshop on Foundation Model*](https://foundation-model.com/home), 2023</font><br>
+[[PDF]](pdfs/calince.pdf) [[BibTeX]](bibs/calince.bib) [[Code]](https://github.com/nanxuanzhao/Cali-NCE)
+<br>
+
+
+<img align="left" style="width:200px;height:110px;margin:5px 5px" src="img/linr.png">
+**Revisiting Implicit Neural Representations in Low-Level Vision**<br>
+<font size=2>Wentian Xu, **Jianbo Jiao** </font><br>
+<font size=2>*International Conference on Learning Representations* (**ICLR**) [*Neural Fields Workshop*](https://sites.google.com/view/neural-fields), 2023</font><br>
+[[PDF]](pdfs/linr.pdf) [[arXiv]](https://arxiv.org/abs/2304.10250) [[BibTeX]](bibs/linr.bib) [[Project]](https://wentxul.github.io/LINR-projectpage/)
+<br>
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/tml4h23.png">
+**A Kernel Density Estimation based Quality Metric for Quality Assessment of Obstetric Ultrasound Video**<br>
+<font size=2>Jong Kwon, **Jianbo Jiao**, Alice Self, J. Alison Noble, Aris Papageorghiou </font><br>
+<font size=2>*International Conference on Learning Representations* (**ICLR**) [*Trustworthy Machine Learning for Healthcare Workshop*](https://sites.google.com/view/tml4h2023/home), 2023</font><br>
+[[PDF]](pdfs/tml4h.pdf) [[BibTeX]](bibs/tml4h.bib) [[Code]](https://github.com/kwon-j/KDE-UltrasoundQA)
+<br>
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/neurips22.png">
+**Mining Unseen Classes via Regional Objectness: A Simple Baseline for Incremental Segmentation**<br>
+<font size=2>Zekang Zhang, Guangyu Gao, Zhiyuan Fang, **Jianbo Jiao**, [Yunchao Wei](https://weiyc.github.io) </font><br>
+<font size=2>*Conference on Neural Information Processing Systems* (**NeurIPS**), 2022</font><br>
+[[PDF]](https://openreview.net/pdf?id=G1vrYk9uX-_) [[BibTeX]](bibs/neurips22.bib) [[Code]](https://github.com/zkzhang98/MicroSeg)
+<br>
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/eccvw22.png">
+**Anatomy-Aware Contrastive Representation Learning for Fetal Ultrasound**<br>
+<font size=2>Zeyu Fu*, **Jianbo Jiao\***, Robail Yasrab*, Lior Drukker, Aris T. Papageorghiou, [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble) (*Equal contribution)</font><br>
+<font size=2>*European Conference on Computer Vision* (**ECCV**) *Medical Computer Vision Workshop*, <font color=#FF8080><strong>Oral Presentation</strong></font> [<i class="fas fa-trophy"></i><a href="img/ECCV_MCV_BestPaperAward.jpeg"><font color="e63946"><strong>Best Paper Award</strong></font></a>], 2022</font><br>
+<!-- [[PDF]](pdfs/awcl.pdf) [[BibTeX]](bibs/awcl.bib) -->
+[[PDF]](pdfs/awcl.pdf) [[BibTeX]](bibs/awcl.bib) [[Project]](https://github.com/JianboJiao/AWCL)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/bmvc21.gif">
+**Quantised Transforming Auto-Encoders: Achieving Equivariance to Arbitrary Transformations in Deep Networks**<br>
+<font size=2>**Jianbo Jiao**, [João F. Henriques](https://www.robots.ox.ac.uk/~joao/)</font><br>
+<font size=2>*British Machine Vision Conference* (**BMVC**), 2021</font><br>
+[[PDF]](pdfs/bmvc21_qtae.pdf) [[BibTeX]](bibs/bmvc21_qtae.bib) [[Presentation]](https://youtu.be/3Vm5gwfWTro) [[Project]](https://www.robots.ox.ac.uk/~vgg/research/qtae/)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/medneurips.png">
+**Explainability of Self-Supervised Representation Learning for Medical Ultrasound Video**<br>
+<font size=2>Kangning Zhang, **Jianbo Jiao**, [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble)</font><br>
+<font size=2>*Conference on Neural Information Processing Systems Workshop* ([*MedNeurIPS*](https://sites.google.com/view/med-neurips-2021)), 2021</font><br>
+[[PDF]](pdfs/medneurips.pdf) [[BibTeX]](bibs/medneurips.bib) [[Poster]](srcs/medneurips_poster.jpeg)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/tpami21.png">
+**Self-Supervised Video Representation Learning by Uncovering Spatio-temporal Statistics**<br>
+<font size=2>[Jiangliu Wang*](https://laura-wang.github.io/), **Jianbo Jiao***, [Linchao Bao](https://sites.google.com/site/linchaobao/), [Shengfeng He][sf], [Wei Liu](http://www.ee.columbia.edu/~wliu/), [Yunhui Liu](http://ri.cuhk.edu.hk/yhliu) (*Equal contribution)</font><br>
+<font size=2>*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**T-PAMI**), 2021</font><br>
+<font size=2>This paper subsumes our [preliminary work](pdfs/cvpr_VidMAS.pdf) presented at CVPR 2019, with <font color=#FF8080><strong>~30%</strong></font> performance improvement!</font><br>
+[[PDF]](pdfs/tpami21.pdf) [[BibTeX]](bibs/tpami21.bib) [[Code]](https://github.com/laura-wang/video_repres_sts)
+<br>
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/neurips21.png">
+**Revitalizing CNN Attentions via Transformers in Self-Supervised Visual Representation Learning**<br>
+<font size=2>Chongjian Ge, Youwei Liang, [Yibing Song](https://ybsong00.github.io), **Jianbo Jiao**, [Jue Wang](https://www.juew.org), [Ping Luo](http://luoping.me/) </font><br>
+<font size=2>*Conference on Neural Information Processing Systems* (**NeurIPS**), 2021</font><br>
+[[PDF]](https://arxiv.org/abs/2110.05340) [[BibTeX]](bibs/neurips21.bib) [[Project]](https://github.com/ChongjianGE/CARE) [[OpenReview]](https://openreview.net/forum?id=sRojdWhXJx) [[Media Coverage]](https://mp.weixin.qq.com/s/oGS4XSjO29fHdDQXV1vyvg)
+<br>
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/iccv21.png">
+**Scene Context-Aware Salient Object Detection**<br>
+<font size=2>Avishek Siris, **Jianbo Jiao**, Gary K.L. Tam, Xianghua Xie, [Rynson W.H. Lau][rynson]</font><br>
+<font size=2>*IEEE/CVF International Conference on Computer Vision* (**ICCV**), 2021</font><br>
+[[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Siris_Scene_Context-Aware_Salient_Object_Detection_ICCV_2021_paper.pdf) [[BibTeX]](bibs/ICCV21.bib) [[Code and Dataset]](https://github.com/SirisAvishek/Scene_Context_Aware_Saliency)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/jbhi.png">
+**Facial Anatomical Landmark Detection using Regularized Transfer Learning with Application to Fetal Alcohol Syndrome Recognition**<br>
+<font size=2>Zeyu Fu, **Jianbo Jiao**, Michael Suttie, [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble)</font><br>
+<font size=2>*IEEE Journal of Biomedical and Health Informatics* (**JBHI**), 2021</font><br>
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9531054) [[BibTeX]](bibs/jbhi.bib)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/tpami21_2.png">
+**Affinity Attention Graph Neural Network for Weakly Supervised Semantic Segmentation**<br>
+<font size=2>Bingfeng Zhang, Jimin Xiao, **Jianbo Jiao**, [Yunchao Wei](https://weiyc.github.io),[Yao Zhao](https://scholar.google.com/citations?user=474TbQYAAAAJ&hl=en)</font><br>
+<font size=2>*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**T-PAMI**), 2021</font><br>
+[[PDF]](pdfs/tpami21_2.pdf) [[BibTeX]](bibs/tpami21_2.bib) [[Code]](https://github.com/zbf1991/A2GNN)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/tip21.png">
+**Multi-View Face Synthesis via Progressive Face Flow**<br>
+<font size=2>Yangyang Xu, Xuemiao Xu, **Jianbo Jiao**, Keke Li, Cheng Xu, [Shengfeng He](sf)</font><br>
+<font size=2>*IEEE Transactions on Image Processing* (**T-IP**), 2021</font><br>
+[[PDF]](https://ieeexplore.ieee.org/document/9466401) [[BibTeX]](bibs/tip21.bib) [[Code]](./)
+<br>
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/MICCAI20.png">
+**Self-Supervised Contrastive Video-Speech Representation Learning for Ultrasound**<br>
+<font size=2>**Jianbo Jiao**, Yifan Cai, Mohammad Alsharid, Lior Drukker, Aris Papageorghiou, [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble)</font><br>
+<font size=2>*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), <font color=#FF8080><strong>Oral Presentation (Early Acceptance)</strong></font>, 2020</font><br>
+[[PDF]](pdfs/MICCAI20.pdf) [[BibTeX]](bibs/MICCAI20.bib) [[Presentation Video]](https://youtu.be/gpCc8IMF2NE) [[Graphical Abstract]](pdfs/MICCAI20_GA.pdf) [[MICCAI Daily Coverage](https://www.rsipvision.com/MICCAI2020-Wednesday/6/), [Best of MICCAI 2020 Coverage](https://www.rsipvision.com/ComputerVisionNews-2020December/30/)]
+<!-- <a href="./" title="to appear">[PDF]</a> <a href="./" title="to appear">[BibTeX]</a> -->
+<br>
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/ECCV_unisal.png">
+**Unified Image and Video Saliency Modeling**<br>
+<font size=2>[Richard Droste*](https://rdroste.com), **Jianbo Jiao***, [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble) (*Equal contribution)</font><br>
+<font size=2>*European Conference on Computer Vision* (**ECCV**), <font color=#FF8080><strong>Spotlight Presentation</strong></font>, 2020</font><br>
+[[PDF]](pdfs/ECCV_unisal.pdf) [[BibTeX]](bibs/ECCV_unisal.bib) [[Short Video]](https://www.youtube.com/watch?v=k6AX_7Blu_s&t=3s) [[Long Video]](https://www.youtube.com/watch?v=9pnxkgLrceo&t=8s) [[More Results]](https://www.youtube.com/watch?v=4CqMPDI6BqE) [[Project]](https://github.com/rdroste/unisal)
+<!-- <a href="./" title="to appear">[PDF]</a> <a href="./" title="to appear">[BibTeX]</a> [[Project]](https://github.com/rdroste/unisal) -->
+<br>
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/ECCV_pace.png">
+**Self-Supervised Video Representation Learning by Pace Prediction**<br>
+<font size=2>Jiangliu Wang, **Jianbo Jiao**, Yun-Hui Liu</font><br>
+<font size=2>*European Conference on Computer Vision* (**ECCV**), 2020</font><br>
+[[PDF]](pdfs/ECCV_pace.pdf) [[BibTeX]](bibs/ECCV_pace.bib) [[Short Video]](https://www.youtube.com/watch?v=wYHteK4BHlk&feature=youtu.be) [[Long Video]](https://www.youtube.com/watch?v=LCeJYkSFXSk) [[Code]](https://github.com/laura-wang/video-pace)
+<!-- <a href="./" title="to appear">[PDF]</a> <a href="./" title="to appear">[BibTeX]</a> <a href="./" title="to appear">[Code]</a> -->
+<br>
+
+<img align="left" style="width:200px;height:115px;margin:5px 5px" src="img/TMI20.png">
+**Self-Supervised Ultrasound to MRI Fetal Brain Image Synthesis**<br>
+<font size=2>**Jianbo Jiao**, [Ana Namburete](http://www.ibme.ox.ac.uk/research/biomedia/people/ana-ineda-l-namburete), Aris Papageorghiou, [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble)</font><br>
+<font size=2>*IEEE Transactions on Medical Imaging* (**T-MI**), 2020</font><br>
+<font size=2>This paper subsumes our [preliminary work](pdfs/MICCAI_MLMI.pdf) presented at MICCAI-MLMI 2019.</font><br>
+[[PDF]](pdfs/TMI20.pdf) [[BibTeX]](bibs/TMI20.bib) [[Code]](https://bitbucket.org/JianboJiao/ssus2mri/)
+<!-- <a href="./" title="to appear">[PDF]</a> <a href="./" title="to appear">[BibTeX]</a> <a href="./" title="to appear">[Code]</a> -->
+<br>
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/ISBI20.png">
+**Self-Supervised Representation Learning for Ultrasound Video**<br>
+<font size=2>**Jianbo Jiao**, [Richard Droste](https://rdroste.com), Lior Drukker, Aris Papageorghiou, [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble)</font><br>
+<font size=2>*IEEE International Symposium on Biomedical Imaging* (**ISBI**), 2020</font><br>
+[[PDF]](pdfs/ISBI20.pdf) [[BibTeX]](bibs/ISBI20.bib)
+<br>
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/ACMMM20.png">
+**Tactile Sketch Saliency**<br>
+<font size=2>**Jianbo Jiao**, [Ying Cao](http://www.ying-cao.com), [Manfred Lau](https://sites.google.com/site/manfredlau/), [Rynson W.H. Lau][rynson]</font><br>
+<font size=2>*ACM International Conference on Multimedia* (**ACM MM**), 2020</font><br>
+[[PDF]](pdfs/ACMMM20.pdf) [[BibTeX]](bibs/ACMMM20.bib) [[Data & Code]](https://bitbucket.org/JianboJiao/tactilesketchsaliency)
+<br>
+
+<img align="left" style="width:200px;height:100px;margin:5px 5px" src="img/CVPR20.png">
+**Inferring Attention Shift Ranks of Objects for Image Saliency**<br>
+<font size=2>Avishek Siris, **Jianbo Jiao**, Gary K.L. Tam, Xianghua Xie, [Rynson W.H. Lau][rynson]</font><br>
+<font size=2>*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2020</font><br>
+[[PDF]](pdfs/CVPR20.pdf) [[BibTeX]](bibs/CVPR20.bib) [[Presentation Video]](https://www.youtube.com/watch?v=vj2bhD7ZgS0) [[Project]](https://github.com/SirisAvishek/Attention_Shift_Ranks) [[Dataset]](https://cove.thecvf.com/datasets/325)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/AAAI.png">
+**When AWGN-based Denoiser Meets Real Noises**<br>
+<font size=2>[Yuqian Zhou](https://yzhouas.github.io), **Jianbo Jiao**, [Haibin Huang](https://brotherhuang.github.io), Yang Wang, [Jue Wang](https://www.juew.org), [Honghui Shi](https://www.humphreyshi.com/), [Thomas S. Huang](http://ifp-uiuc.github.io)</font><br>
+<font size=2>*AAAI Conference on Artificial Intelligence* (**AAAI**), <font color=#FF8080><strong>Spotlight Presentation</strong></font>, 2020</font><br>
+[[PDF]](pdfs/AAAI.pdf) [[BibTeX]](bibs/AAAI.bib) [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch) [[GIMP-ML]](https://github.com/kritiksoman/GIMP-ML/wiki/References)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/mlmi20.png">
+**Cross-Task Representation Learning for Anatomical Landmark Detection**<br>
+<font size=2>Zeyu Fu, **Jianbo Jiao**, Michael Suttie, [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble)</font><br>
+<font size=2>*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**) *Workshop on* **MLMI**, 2020</font><br>
+[[PDF]](https://arxiv.org/pdf/2009.13635.pdf) [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:N1DbM4_WBcsJ:scholar.google.com/&output=citation&scisdr=CgWeAti1EJHgneRHSNE:AAGBfm0AAAAAYBdCUNFJidXtSUun7s2q1iN6kYUFH5Id&scisig=AAGBfm0AAAAAYBdCUOecB_CF0wBpm4uFHfNKxPqhoWid&scisf=4&ct=citation&cd=-1&hl=en)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/pippi.png">
+**Differentiating Operator Skill During Routine Fetal Ultrasound Scanning Using Probe Motion Tracking**<br>
+<font size=2>Yipei Wang, [Richard Droste](https://rdroste.com/), **Jianbo Jiao**, Harshita Sharma, Lior Drukker, Aris T. Papageorghiou, [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble)</font><br>
+<font size=2>*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**) *Workshop on* **ASMUS**, <font color=#FF8080><strong>Oral Presentation</strong></font>, 2020</font><br>
+[[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-60334-2_18) [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:B7bfC0Mlv6AJ:scholar.google.com/&output=citation&scisdr=CgWeAti1EJHgneRDLJU:AAGBfm0AAAAAYBdGNJVHpSOzvEC1Hk8y3_14FrtNquBY&scisig=AAGBfm0AAAAAYBdGNGuOFlZ4GiHdQ9YOnZlnSWDInxcO&scisf=4&ct=citation&cd=-1&hl=en)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/FormNet_TIP20.png">
+**FormNet: Formatted Learning for Image Restoration**<br>
+<font size=2>**Jianbo Jiao**, [Wei-Chih Tu](wc), [Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en), [Shengfeng He](sf),  [Rynson Lau](rynson), [Thomas S. Huang](http://ifp-uiuc.github.io)</font><br>
+<font size=2>*IEEE Transactions on Image Processing* (**T-IP**), 2020</font><br>
+<font size=2>This paper subsumes our [preliminary work](pdfs/cvprw.pdf) presented at CVPRW 2017.</font><br>
+[[PDF]](pdfs/tip_formnet.pdf) [[BibTeX]](bibs/FormNet_TIP20.bib) [[Code]](https://bitbucket.org/JianboJiao/formnet)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/TIP20.png">
+**Connecting Image Denoising and High-Level Vision Tasks via Deep Learning**<br>
+<font size=2>[Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en), [Bihan Wen](http://bihanwen.ece.illinois.edu), **Jianbo Jiao**, [Xianming Liu](https://scholar.google.com/citations?user=697UEEIAAAAJ&hl=en), [Zhangyang Wang](https://www.atlaswang.com), [Thomas S. Huang](http://ifp-uiuc.github.io)</font><br>
+<font size=2>*IEEE Transactions on Image Processing* (**T-IP**), 2020</font><br>
+[[PDF]](pdfs/tip_connecting.pdf) [[BibTeX]](bibs/TIP20.bib) [[Code]](https://github.com/Ding-Liu/DeepDenoising)
+<br>
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/MICCAI_MLMI19.png">
+**Anatomy-Aware Self-Supervised Fetal MRI Synthesis from Unpaired Ultrasound Images**<br>
+<font size=2>**Jianbo Jiao**, [Ana Namburete](http://www.ibme.ox.ac.uk/research/biomedia/people/ana-ineda-l-namburete), Aris Papageorghiou, [Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble)</font><br>
+<font size=2>*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**) *Workshop on Machine Learning in Medical Imaging ([MLMI](http://mlmi2019.web.unc.edu))*, <font color=#FF8080><strong>Oral Presentation</strong></font>, 2019</font><br>
+[[PDF]](pdfs/MICCAI_MLMI.pdf) [[BibTeX]](bibs/MICCAI_MLMI.bib) [[Presentation]](srcs/miccai_mlmi.ppsm)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/cvpr19.png">
+**Geometry-Aware Distillation for Indoor Semantic Segmentation**<br>
+<font size=2>**Jianbo Jiao**, [Yunchao Wei](https://weiyc.github.io), [Zequn Jie](http://jiezequn.me), [Honghui Shi](https://www.humphreyshi.com/), [Rynson W.H. Lau][rynson], [Thomas S. Huang](http://ifp-uiuc.github.io)</font><br>
+<font size=2>*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2019</font><br>
+[[PDF]](pdfs/cvpr_GAD.pdf) [[BibTeX]](bibs/cvpr_GAD.bib) [[Code]](https://bitbucket.org/JianboJiao/semseggap/src/master/)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/cvpr19_2.png">
+**Self-Supervised Spatio-temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics**<br>
+<font size=2>Jiangliu Wang, **Jianbo Jiao**, [Linchao Bao](https://sites.google.com/site/linchaobao/), [Shengfeng He][sf], Yunhui Liu, [Wei Liu](http://www.ee.columbia.edu/~wliu/)</font><br>
+<font size=2>*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2019</font><br>
+<!-- <a href="./" title="to appear">[PDF]</a> -->
+[[PDF]](pdfs/cvpr_VidMAS.pdf) [[BibTeX]](bibs/cvpr_VidMAS.bib) [[Code]](https://github.com/laura-wang/video_repres_mas)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/ACMMM.png">
+**Ground-Aware Point Cloud Semantic Segmentation for Autonomous Driving**<br>
+<font size=2>Jian Wu, **Jianbo Jiao**, [Qingxiong Yang][qx], Zheng-Jun Zha, [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/)</font><br>
+<font size=2>*ACM International Conference on Multimedia* (**ACM MM**), <font color=#FF8080><strong>Oral Presentation</strong></font>, 2019</font><br>
+[[PDF]](pdfs/ACMMM.pdf) [[BibTeX]](bibs/ACMMM.bib) [[Project]](http://www.moonx.ai/#/open)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/TCBB.png">
+**Few-shot Breast Cancer Metastases Classification via Unsupervised Cell Ranking**<br>
+<font size=2>Jiaojiao Chen, **Jianbo Jiao**, [Shengfeng He][sf], Guoqiang Han, [Jing Qin](https://sn.polyu.edu.hk/en/people/academic_staff/index.html#harry.qin)</font><br>
+<font size=2>*IEEE Transactions on Computational Biology and Bioinformatics* (**T-CBB**), 2019</font><br>
+[[PDF]](pdfs/TCBB.pdf) [[BibTeX]](bibs/TCBB.bib) [[Code]](https://github.com/jiaojiao-Chen/fewshot-camelyon)
+<br>
+
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/TIP.png">
+**Stereoscopic Image Generation from Light Field with Disparity Scaling and Super-Resolution**<br>
+<font size=2>Tao Yan, **Jianbo Jiao**, Wenxi Liu, [Rynson W.H. Lau][rynson]</font><br>
+<font size=2>*IEEE Transactions on Image Processing* (**T-IP**), 2019</font><br>
+[[PDF]](pdfs/TIP.pdf) [[BibTeX]](bibs/TIP.bib)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/TMM.png">
+**Referring Image Segmentation by Generative Adversarial Learning**<br>
+<font size=2>Shuang Qiu, [Yao Zhao](https://scholar.google.com/citations?user=474TbQYAAAAJ&hl=en), **Jianbo Jiao**, [Yunchao Wei](https://weiyc.github.io), Shikui Wei</font><br>
+<font size=2>*IEEE Transactions on Multimedia* (**T-MM**), 2019</font><br>
+[[PDF]](pdfs/TMM.pdf) [[BibTeX]](bibs/TMM.bib)
+<br>
+
+<img align="left" style="width:200px;height:125px;margin:5px 5px" src="img/eccv.png">
+**Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss**<br>
+<font size=2>**Jianbo Jiao**, [Ying Cao](http://www.ying-cao.com), [Yibing Song](https://ybsong00.github.io), [Rynson W.H. Lau][rynson]</font><br>
+<font size=2>*European Conference on Computer Vision* (**ECCV**), 2018</font><br>
+[[PDF]](pdfs/eccv_LDiD.pdf) [[BibTeX]](bibs/eccv_LDiD.bib) [[Code]](https://bitbucket.org/JianboJiao/ldid/src/master/)
+<br>
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/eccv_web.png">
+**Task-Driven Webpage Saliency**<br>
+<font size=2>[Quanlong Zheng](https://quanlzheng.github.io), **Jianbo Jiao**, [Ying Cao](http://www.ying-cao.com), [Rynson W.H. Lau][rynson]</font><br>
+<font size=2>*European Conference on Computer Vision* (**ECCV**), 2018</font><br>
+[[PDF]](pdfs/eccv_TDSal.pdf) [[BibTeX]](bibs/eccv_TDSal.bib) [[Project]](https://quanlzheng.github.io/projects/Task-driven-Webpage-Saliency.html)
+<br>
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/iccv.png">
+**Delving into Salient Object Subitizing and Detection**<br>
+<font size=2>[Shengfeng He][sf], **Jianbo Jiao**, Xiaodan Zhang, [Guoqiang Han](http://cs.scut.edu.cn/jxgl/yjsjy/dsjj/bshshdsh/17gh4u6trjjd6.xhtml), [Rynson W.H. Lau][rynson]</font><br>
+<font size=2>*IEEE International Conference on Computer Vision* (**ICCV**), 2017</font><br>
+[[PDF]](pdfs/iccv.pdf) [[BibTeX]](bibs/iccv.bib)
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/ijcv.png">
+**Joint Image Denoising and Disparity Estimation via Stereo Structure PCA and Noise-Tolerant Cost**<br>
+<font size=2>**Jianbo Jiao**, [Qingxiong Yang][qx], [Shengfeng He][sf], [Shuhang Gu][shuhang], [Lei Zhang][leizhang], [Rynson W. H. Lau][rynson]</font><br>
+<font size=2>*International Journal of Computer Vision* (**IJCV**), 2017</font><br>
+[[PDF]](pdfs/ijcv.pdf) [[BibTeX]](bibs/ijcv.bib) [[Code]](https://bitbucket.org/JianboJiao/jointstereodn/src/master/) [[Data]](https://drive.google.com/file/d/1yjQs_fH7SQ-7pSLigklUkNH96SovghWG/view?usp=sharing)
+
+<img align="left" img style="width:200px;height:105px;margin:5px 5px" src="img/cvprw.png">
+**FormResNet: Formatted Residual Learning for Image Restoration**<br>
+<font size=2>**Jianbo Jiao**, [Wei-Chih Tu][wc], [Shengfeng He][sf], [Rynson W. H. Lau][rynson]</font><br>
+<font size=2>*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) *Workshop ([NTIRE](http://www.vision.ee.ethz.ch/ntire17/))*, <font color=#FF8080><strong>Oral Presentation</strong></font>, 2017</font><br>
+[[PDF]](pdfs/cvprw.pdf) [[BibTeX]](bibs/cvprw.bib) [[Code]](https://bitbucket.org/JianboJiao/formresnet/src/master/) [[Slides]](srcs/cvprw_slid.ppsm) [[Poster]](srcs/cvprw_pos.pdf)
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/icip.png">
+**A Hand Pose Tracking Benchmark From Stereo Matching**<br>
+<font size=2>[Jiawei Zhang][jiawei], **Jianbo Jiao**, [Mingliang Chen][mingliang], [Liangqiong Qu][liangqiong], [Xiaobin Xu][xiaobin], [Qingxiong Yang][qx]</font><br>
+<font size=2>*IEEE International Conference on Image Processing* (**ICIP**), <font color=#FF8080><strong>Oral Presentation</strong></font>, 2017</font><br>
+[[PDF]](pdfs/icip.pdf) [[Tech Report]](https://arxiv.org/pdf/1610.07214.pdf) [[BibTeX]](bibs/icip.bib) [[Data](https://github.com/zhjwustc/icip17_stereo_hand_pose_dataset): [Dropbox](https://www.dropbox.com/sh/g13petlurikkivo/AACgwsoKsbtzMxX_e6bhH39Qa?dl=0), [OneDrive](https://www.google.com/url?q=https%3A%2F%2Fportland-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2Fjiawzhang8-c_my_cityu_edu_hk%2FEkznohE3YL1Jk8igTCQ4HqYBg_9WJi9hWAetybea9o3iMQ%3Fe%3DkcbMmj&sa=D&sntz=1&usg=AFQjCNGxPD4n-BZYzVcEQ0mmFIwFCz7DaQ)]
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/tcsvt.png">
+**Color Image Guided Boundary-inconsistent Region Refinement for Stereo Matching**<br>
+<font size=2>**Jianbo Jiao**, [Ronggang Wang][ronggang], [Wenmin Wang][wenmin], [Dagang Li][dagang], [Wen Gao][wengao]</font><br>
+<font size=2>*IEEE Transactions on Circuits and Systems for Video Technology* (**T-CSVT**), 2015</font><br>
+[[PDF]](pdfs/tcsvt.pdf) [[BibTeX]](bibs/tcsvt.bib) [[Code]](https://bitbucket.org/JianboJiao/disprefine/src/master/)
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/mm.png">
+**Local Stereo Matching with Improved Matching Cost and Disparity Refinement**<br>
+<font size=2>**Jianbo Jiao**, [Ronggang Wang][ronggang], [Wenmin Wang][wenmin], [Shengfu Dong][shengfu], [Zhenyu Wang][zhenyu], [Wen Gao][wengao]</font><br>
+<font size=2>*IEEE Multimedia*, 2014</font><br>
+[[PDF]](pdfs/mm.pdf) [[BibTeX]](bibs/MM.bib)
+
+<img align="left" style="width:200px;height:105px;margin:5px 5px" src="img/icme.png">
+**Cost-Volume Filtering-Based Stereo Matching with Improved Matching Cost and Secondary Refinement**<br>
+<font size=2>**Jianbo Jiao**, [Ronggang Wang][ronggang], [Wenmin Wang][wenmin], [Shengfu Dong][shengfu], [Zhenyu Wang][zhenyu], [Wen Gao][wengao]</font><br>
+<font size=2>*IEEE International Conference on Multimedia and Expo* (**ICME**), <font color=#FF8080><strong>Oral Presentation</strong></font> [<i class="fas fa-trophy"></i><font color="red"><strong>Best Student Paper</strong></font> candidate], 2014</font><br>
+[[PDF]](pdfs/icme.pdf) [[BibTeX]](bibs/icme.bib) [[Slides]](srcs/icme_slid.ppsm) [[Poster]](srcs/icme_pos.pdf) [[demo]](https://youtu.be/w6jJu3GXPVY)
+
+
+[qx]: https://sites.google.com/site/itrymanytimes/home
+[sf]: http://www.shengfenghe.com/
+[shuhang]: https://sites.google.com/site/shuhanggu/home
+[leizhang]: http://www4.comp.polyu.edu.hk/~cslzhang/
+[rynson]: http://www.cs.cityu.edu.hk/~rynson/
+[wc]: https://sites.google.com/site/wctu1009/
+[jiawei]: https://sites.google.com/site/zhjw1988/
+[mingliang]: http://www.cs.cityu.edu.hk/~mlchen2/
+[liangqiong]: http://vision.sia.cn/our%20team/QuLiangqun-homepage/vision-Quliangqiong(English).html
+[xiaobin]: http://www.cs.cityu.edu.hk/~xiaobinxu2/
+[ronggang]: http://www.ece.pku.edu.cn/index.php?a=show&catid=507&id=48
+[wenmin]: http://www.ece.pku.edu.cn/index.php?a=show&catid=507&id=42
+[wengao]: http://www.jdl.ac.cn/htm-gaowen/
+[shengfu]: https://www.researchgate.net/profile/Shengfu_Dong
+[zhenyu]: https://www.researchgate.net/profile/Zhenyu_Wang38
+[dagang]: https://www.researchgate.net/profile/Dagang_Li
